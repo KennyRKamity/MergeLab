@@ -1,6 +1,13 @@
 red 
 blue
 orange
+<<<<<<< HEAD
 green
 alex
 benjamin
+=======
+white
+black
+john
+micheal
+>>>>>>> branch1
