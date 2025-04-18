@@ -2,3 +2,6 @@ pink
 purple
 orange
 white
+black
+john
+micheal
