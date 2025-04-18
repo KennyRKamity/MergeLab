@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 pink
 purple
 orange
 white
-red
-blue
-yellow
-green
->>>>>>> main
